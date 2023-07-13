@@ -1,0 +1,22 @@
+/* textarea.css */
+
+/* Target the textarea within the MentionsInput */
+.mentions-textarea textarea {
+    /* Add your desired styles here */
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    /* ... other styles */
+  }
+  
+  /* Customize the mention dropdown */
+  .mentions-autocomplete-container {
+    /* Add your desired styles here */
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    /* ... other styles */
+  }
+  
